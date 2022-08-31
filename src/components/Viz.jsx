@@ -49,7 +49,7 @@ export default function Visual(data) {
         <div className="bodyContainer">
           <div className="titleContainer">
             <h1>Opioid Death Rates By Country, 1990 - 2017</h1>
-            <h2>Mean Average of Estimates per 100,000 People</h2>
+            <h2>Mean of Estimates per 100,000 People</h2>
           </div>
           <div className="vizContainer">
             <div className="viz">
