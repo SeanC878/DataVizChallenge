@@ -19,7 +19,6 @@ const [sex, setSex] = useState('')
       setData(data)
       setYear(data[0].year_id)
       setSex(data[0].sex_name)
-      console.log({ data });
     }
     fetchData();
   }, []);
